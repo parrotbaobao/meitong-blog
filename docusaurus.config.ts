@@ -17,9 +17,9 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'parrotbaobao', // Usually your GitHub org/user name.
+  organizationName: 'parrotcode', // Usually your GitHub org/user name.
   projectName: 'meitong-blog', // Usually your repo name.
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
