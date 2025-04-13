@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmeitong_blog=self.webpackChunkmeitong_blog||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/meitong-blog/blog","blogTitle":"Blog","authorsListPath":"/meitong-blog/blog/authors"}')}}]);
